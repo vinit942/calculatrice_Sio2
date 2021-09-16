@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-void main(){
-    add(1, 5);
+void principal(){
+    ajouter(1, 5);
 }
 
-int add(int a, int b){
-    return a + b;
+int ajouter(int a, int b){
+    retour a + b;
 }
